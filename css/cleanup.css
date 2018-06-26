@@ -10,10 +10,12 @@
 #wall #tag-3{
   display: none;
 }
-#wall .parent {
+
+
+div#wall .parent #tag-5.slick {
   display: none;
 }
 
-div#wall .parent #tag-5.slick {
+#wall .parent {
   display: none;
 }
